@@ -1,6 +1,6 @@
 ### Hi, I'm 0xP4UL
 
-<a href="https://www.twitter.com/0xP4UL">
+<a href="https://www.twitter.com/logicflaws">
   <img align="left" alt="Paul's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
 </a>
 
