@@ -20,3 +20,9 @@ Hi there, I'm Paul Mockford, a full time computer science student, web applicati
 <code><img height="20" src="https://wallpapercave.com/wp/wp7041189.jpg"></code>
 
 ![Paul's github stats](https://github-readme-stats.vercel.app/api?username=0xP4UL&show_icons=true&hide_border=true)
+
+
+**Hall of fame:**
+<br />
+https://discord.com/security
+<br />
