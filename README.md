@@ -7,7 +7,7 @@
 <br />
 <br />
 
-Hi there, I'm Paul Mockford, a full time computer science student, web application bugbounty hunter and programmer based in the United Kingdom.
+Hi there, I'm Paul M., a full time computer science student, web application bugbounty hunter and programmer based in the United Kingdom.
 
 
 **Languages and Tools:**  
