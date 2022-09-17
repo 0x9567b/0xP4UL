@@ -22,7 +22,7 @@ Full time computer science student, web application bugbounty hunter and program
 ![Paul's github stats](https://github-readme-stats.vercel.app/api?username=0xP4UL&show_icons=true&hide_border=true)
 
 
-**Bugbounty Hall of fames:**
+**Bugbounty Hall Of Fames:**
 <br />
 https://discord.com/security
 <br />
