@@ -7,7 +7,7 @@
 <br />
 <br />
 
-Hi there, I'm Paul M., a full time computer science student, web application bugbounty hunter and programmer based in the United Kingdom.
+Full time computer science student, web application bugbounty hunter and programmer based in the United Kingdom.
 
 
 **Languages and Tools:**  
@@ -22,7 +22,7 @@ Hi there, I'm Paul M., a full time computer science student, web application bug
 ![Paul's github stats](https://github-readme-stats.vercel.app/api?username=0xP4UL&show_icons=true&hide_border=true)
 
 
-**Hall of fame:**
+**Bugbounty Hall of fames:**
 <br />
 https://discord.com/security
 <br />
